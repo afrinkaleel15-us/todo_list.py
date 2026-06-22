@@ -11,4 +11,4 @@ A simple Python console-based To-Do List application.
 - Python
 
 ## Author
-Ayesha Zainab
+Afrin Kaleel 
